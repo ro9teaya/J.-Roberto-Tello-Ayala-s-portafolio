@@ -1,4 +1,4 @@
-# J. Roberto Tello Ayala's portafolio
+# J. Roberto Tello Ayala's portfolio
 A selection of programming assignments I've completed over the years. For the purpose of displaying some of the numerical abilities I have acquired.
 
 The Optimization folder contains code regarding unconstrained optimization (trust region methods) and the projected gradient method for convex optimization problems.
